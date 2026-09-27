@@ -1,0 +1,2 @@
+This file is inside the Folder directory.
+It was added on the main branch.
